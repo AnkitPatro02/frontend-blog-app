@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AnkitPatro02/frontend-blog-app/static/css/main.101b72a0.css",
+    "main.js": "/AnkitPatro02/frontend-blog-app/static/js/main.eb699340.js",
+    "static/media/hero.svg": "/AnkitPatro02/frontend-blog-app/static/media/hero.89d1f21884547100ea96cd98e39b23e2.svg",
+    "static/media/CtaImage.jpg": "/AnkitPatro02/frontend-blog-app/static/media/CtaImage.24e605b2fcc82585b089.jpg",
+    "static/media/post-profile.svg": "/AnkitPatro02/frontend-blog-app/static/media/post-profile.71303e98bb6b3db98d9b893c9eb47975.svg",
+    "static/media/post1.jpg": "/AnkitPatro02/frontend-blog-app/static/media/post1.c0c76f980e795cf818c8.jpg",
+    "static/media/Logo.svg": "/AnkitPatro02/frontend-blog-app/static/media/Logo.a71c053f1bc42d6a66d86f50f75670a8.svg",
+    "index.html": "/AnkitPatro02/frontend-blog-app/index.html",
+    "static/media/Wave.svg": "/AnkitPatro02/frontend-blog-app/static/media/Wave.3dc25db3184a2524d6a5728e6d5949ea.svg",
+    "main.101b72a0.css.map": "/AnkitPatro02/frontend-blog-app/static/css/main.101b72a0.css.map",
+    "main.eb699340.js.map": "/AnkitPatro02/frontend-blog-app/static/js/main.eb699340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.101b72a0.css",
+    "static/js/main.eb699340.js"
+  ]
+}
